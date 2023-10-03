@@ -1,2 +1,2 @@
 # Product-Case-Study-1
-Mini product case study
+A short product case study to improve a KPI. 
